@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello👋, I am a Fullstack Web Developer, Lets make awesome things together!🚀.
+# 💫 Hello👋
+Hi, I am a Fullstack Web Developer, Lets make awesome things together!🚀.
 
 
 ## 🌐 Socials:
